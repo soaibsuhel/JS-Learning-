@@ -1,0 +1,12 @@
+{
+    
+    "persons": [
+    {"name":"suhel","age": 23, "hometown": " jamalpur", "married": false},
+    
+    {"name":" Rana","age": 25, "hometown": "Dhaka", "married": true},
+    
+    {"name":" Imdad","age": 30, "hometown": "Dhaka", "married": false},
+    
+    {"name":"Tanvir","age": 27, "hometown": "Dhaka", "married": true}
+  ]
+}
